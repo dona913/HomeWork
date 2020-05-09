@@ -1,0 +1,7 @@
+C:\Users\dona9\source\repos\MyHomeWork_2\MyHomeWork_2\bin\Debug\MyHomeWork_2.exe.config
+C:\Users\dona9\source\repos\MyHomeWork_2\MyHomeWork_2\bin\Debug\MyHomeWork_2.exe
+C:\Users\dona9\source\repos\MyHomeWork_2\MyHomeWork_2\bin\Debug\MyHomeWork_2.pdb
+C:\Users\dona9\source\repos\MyHomeWork_2\MyHomeWork_2\obj\Debug\MyHomeWork_2.1.csprojAssemblyReference.cache
+C:\Users\dona9\source\repos\MyHomeWork_2\MyHomeWork_2\obj\Debug\MyHomeWork_2.1.csproj.CoreCompileInputs.cache
+C:\Users\dona9\source\repos\MyHomeWork_2\MyHomeWork_2\obj\Debug\MyHomeWork_2.exe
+C:\Users\dona9\source\repos\MyHomeWork_2\MyHomeWork_2\obj\Debug\MyHomeWork_2.pdb
